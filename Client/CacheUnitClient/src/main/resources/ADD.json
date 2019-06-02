@@ -1,0 +1,6 @@
+{   "headers": 
+                   {"action":"UPDATE"}, 
+    "body": 
+  [{"dataModelId":111111,"content":"yofi"}, 
+                    {"dataModelId":222222,"content":"tofy"}] 
+}
